@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jun 21 13:27:41 BRT 2023","Wed Jun 21 13:27:42 BRT 2023","838","","home","","","","webapp deve estar online",""
+"passed","Wed Jun 21 13:27:47 BRT 2023","Wed Jun 21 13:27:48 BRT 2023","265","tarefas","exclusão","","","","deve remover uma tarefa",""
+"passed","Wed Jun 21 13:27:45 BRT 2023","Wed Jun 21 13:27:46 BRT 2023","873","tarefas","cadastro","","","","deve cadastrar uma nova tarefa",""
+"passed","Wed Jun 21 13:27:47 BRT 2023","Wed Jun 21 13:27:47 BRT 2023","219","tarefas","cadastro","","","","campo obrigatório",""
+"passed","Wed Jun 21 13:27:47 BRT 2023","Wed Jun 21 13:27:47 BRT 2023","265","tarefas","atualização","","","","deve concluir uma tarefa",""
+"passed","Wed Jun 21 13:27:46 BRT 2023","Wed Jun 21 13:27:47 BRT 2023","633","tarefas","cadastro","","","","Não deve permitir tarefa duplicada",""
